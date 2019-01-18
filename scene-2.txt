@@ -1,7 +1,3 @@
-Hamlet: Act 1, Scene 2
-
-A room of state in the castle.
-
 Enter KING CLAUDIUS, QUEEN GERTRUDE, HAMLET, POLONIUS, LAERTES, VOLTIMAND,
 CORNELIUS, Lords, and Attendants
 
@@ -43,3 +39,5 @@ For bearers of this greeting to old Norway;
 Giving to you no further personal power
 To business with the king, more than the scope
 Of these delated articles allow.
+
+esto es un examen.
